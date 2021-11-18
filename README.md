@@ -42,6 +42,8 @@ The project is open-source
 ## Screenshots
 
 ![Capture](img\app.JPG)
+
+
 ![Capture](img\app2.JPG)
 
 ## Tests:
