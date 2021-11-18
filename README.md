@@ -45,6 +45,9 @@ The project is open-source
 
 ![](img/app2.JPG)
 
+
+![Capture](img\app2.JPG)
+
 ## Tests:
 
 NA
